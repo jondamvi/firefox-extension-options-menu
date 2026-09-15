@@ -8,7 +8,7 @@ on current Firefox — the button appeared but the menu never opened. **Fixed an
 Firefox ESR 140.15.0**, with no Firefox security preferences loosened.
 
 <!-- SCREENSHOT: the toolbar button with the dropdown open, showing the extension list -->
-<img width="1192" height="489" alt="image" src="https://github.com/user-attachments/assets/abfa3804-4f6a-4899-8240-a22e452c27a5" />
+<img width="1192" height="489" alt="image" src="https://github.com/jondamvi/firefox-extension-options-menu/blob/master/FirefoxMenuOptionsExtension.png" />
 
 
 ## Derived from
