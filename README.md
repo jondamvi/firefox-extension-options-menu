@@ -83,7 +83,7 @@ Create a `chrome` subfolder there if it doesn't exist.
 
 ### Step 3 — Install this script
 
-Download **[`extensionOptionsMenu.uc.js`](../../raw/main/extensionOptionsMenu.uc.js)** and put
+Download **[`extensionOptionsMenu.uc.js`](../../raw/master/extensionOptionsMenu.uc.js)** and put
 it in:
 
 ```
