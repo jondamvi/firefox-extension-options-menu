@@ -13,6 +13,7 @@ Firefox ESR 140.15.0**, with no Firefox security preferences loosened.
 
 ## Derived from
 
+| Property | Description |
 | --- | --- |
 | Original file | [`chrome/extensionOptionsMenu.uc.js`](https://github.com/xiaoxiaoflood/firefox-scripts/blob/bc96758b316a7f41d0ee4102101e022fc700cb82/chrome/extensionOptionsMenu.uc.js) |
 | Original repo | [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts) |
