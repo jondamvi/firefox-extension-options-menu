@@ -15,7 +15,7 @@ Firefox ESR 140.15.0**, with no Firefox security preferences loosened.
 
 | | |
 | --- | --- |
-| Original file | [`chrome/extensionOptionsMenu.uc.js`](https://github.com/xiaoxiaoflood/firefox-scripts/blob/COMMIT_SHA_HERE/chrome/extensionOptionsMenu.uc.js) — pin this to the exact commit you forked from |
+| Original file | [`chrome/extensionOptionsMenu.uc.js`](https://github.com/xiaoxiaoflood/firefox-scripts/blob/COMMIT_SHA_HERE/chrome/extensionOptionsMenu.uc.js) |
 | Original repo | [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts) |
 | Author | xiaoxiaoflood |
 | License | MPL-2.0, unchanged |
